@@ -1,0 +1,26 @@
+body {
+    background-color:green;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Cor do título */
+.titulo {
+    color: blue;
+}
+
+/* Parágrafo 1 em amarelo */
+.paragrafo1 {
+    color: yellow;
+}
+
+/* Parágrafo 2 em vermelho */
+.paragrafo2 {
+    color: red;
+}
+
+/* Parágrafo 3 em preto */
+.paragrafo3 {
+    color: black;
+}
